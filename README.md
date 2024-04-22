@@ -1,3 +1,3 @@
-# UI Design
+# Kelston University
 
-This is where I'll make designs in Adobe programs and translate them into code for a fully functional UI components and structures with HTML, CSS, and JavaScript.
+Figure out what projects I can make here to share. Maybe VR for story telling? Or switch to Kelston Chronicles and share Blender code and Unity projects. 
